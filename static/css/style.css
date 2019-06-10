@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 0;
+}
+.contanier{
+    outline: 1px dotted red;
+    height: 100%;
+    width: 100%;
+}
+.rectangles{
+    height: 100px;
+    width: 100%; 
+    display: inline-block;
+    vertical-align: top;
+    margin-left:50px;
+}
+.squares_red{
+    background-color:red;
+    height: 100%;
+    width: 5%;
+    display: inline-block;
+}
+.squares_black{
+    background-color:black;
+    height: 100%;
+    width: 5%;
+    display: inline-block;
+}
